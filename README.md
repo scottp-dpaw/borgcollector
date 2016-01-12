@@ -1,5 +1,7 @@
 # Data collection application
 
+bad dev example
+
 ## Environment variables
 
 Borg Collector needs the following environment variables defined (e.g. .env for honcho):
